@@ -1,0 +1,1 @@
+This github contains two files. DS-3001.ipynb is our group's code file containing all analysis we did. This github also includes ObesityDataSet_raw_and_data_sinthetic.csv which is the original data we based our analysis on.
